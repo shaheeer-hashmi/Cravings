@@ -1,0 +1,37 @@
+.what-we-serve {
+  min-height: 100vh;
+  width: 100%;
+  background-color: var(--color-bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4rem 3rem;
+}
+
+.serving-section-text {
+  font-family: var(--font-accent);
+  font-size: 5rem;
+  color: var(--color-charcoal);
+  margin-bottom: 3rem;
+}
+
+.food-card-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 1.6rem;
+}
+
+@media (max-width: 768px) {
+  .food-card-container {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+  .serving-section-text {
+    font-size: 3rem;
+  }
+  .what-we-serve {
+    padding: 2rem 1rem;
+  }
+}

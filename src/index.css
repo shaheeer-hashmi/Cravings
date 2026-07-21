@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500&family=Fraunces:ital,wght@0,400;0,600;1,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-charcoal);
+  background-color: var(--color-bg);
+}
+
+:root {
+  --font-display: "Playfair Display", serif;
+  --font-body: "DM Sans", sans-serif;
+  --font-accent: "Fraunces", serif;
+
+  --color-bg: #F8F5F0;
+  --color-saffron: #F4A623;
+  --color-terracotta: #D95F3B;
+  --color-charcoal: #1C1C1E;
+  --color-sage: #7A9E7E;
+  --color-cream: #FFF3E0;
+  --color-beige: #E8D5B7;
+}
