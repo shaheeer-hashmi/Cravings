@@ -17,7 +17,7 @@ A visually rich, scroll-driven restaurant website featuring smooth GSAP animatio
 - **React + Vite**
 - **Tailwind CSS**
 - **GSAP** (`@gsap/react` — `useGSAP` hook)
-- **Netlify** (deployment)
+- **Vercel** (deployment)
 
 ---
 
