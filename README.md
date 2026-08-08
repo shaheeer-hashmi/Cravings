@@ -40,4 +40,4 @@ Most restaurant websites in my area are outdated or nonexistent. I built Craving
 
 ## Built By
 
-[Shaheer Hashmi](https://github.com/shaheer-hashmi) — Freelance Frontend Developer
+[Shaheer Hashmi](https://github.com/shaheeer-hashmi) — Freelance Frontend Developer
