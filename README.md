@@ -1,18 +1,43 @@
-# React + Vite
+# Cravings 🍽️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A scroll-animated fictional restaurant website built as a frontend portfolio piece and a live sales demo for pitching to local restaurant businesses.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [cravings-tawny.vercel.app](#)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## What It Does
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+A visually rich, scroll-driven restaurant website featuring smooth GSAP animations, warm earth-tone aesthetics, and a cinematic browsing experience.
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React + Vite**
+- **Tailwind CSS**
+- **GSAP** (`@gsap/react` — `useGSAP` hook)
+- **Netlify** (deployment)
+
+---
+
+## Features
+
+- 🎬 Scroll-triggered animations with GSAP ScrollTrigger
+- 🎨 Color awakening concept — animations tied to scroll depth
+- 🖋️ Three-font design system (Playfair Display, Fraunces, DM Sans)
+- 📱 Fully responsive layout
+- ⚡ Fast, smooth performance with Vite
+
+---
+
+## Why I Built This
+
+Most restaurant websites in my area are outdated or nonexistent. I built Cravings as both a portfolio piece and a working demo to pitch modern web presence to local restaurant owners.
+
+
+---
+
+## Built By
+
+[Shaheer Hashmi](https://github.com/shaheer-hashmi) — Freelance Frontend Developer
